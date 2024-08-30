@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, NodeJS, Express**
 
-- 📫 How to reach me **anjanadhiikari7@gmail.com**
+- 📫 How to reach me **anjanadhiikari179@gmail.com**
 
 
 <p align="left">
